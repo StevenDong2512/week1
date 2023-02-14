@@ -1,5 +1,5 @@
 # week1
-week1 challenge
+
 
 # To meet client requirments I need to optimise the website for search engines 
 
@@ -22,3 +22,4 @@ week1 challenge
 
 ## Inspect elements 
  check and inspect the website the make sure that the elements are formated correctly 
+
